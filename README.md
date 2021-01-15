@@ -463,6 +463,7 @@ nano /var/www/semerue01.pw/.htaccess
 ![](img/46.png)
 ### Nomor 17
 Disable rule hiding public subfolder dulu
+
 ![](img/47.png)
 
 jangan lupa dinyalakan lagi rule hiding public subfolder 
